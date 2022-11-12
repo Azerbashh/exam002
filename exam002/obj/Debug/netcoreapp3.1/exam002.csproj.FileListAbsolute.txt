@@ -1,0 +1,13 @@
+C:\Users\azerbash\source\repos\exam002\exam002\bin\Debug\netcoreapp3.1\exam002.exe
+C:\Users\azerbash\source\repos\exam002\exam002\bin\Debug\netcoreapp3.1\exam002.deps.json
+C:\Users\azerbash\source\repos\exam002\exam002\bin\Debug\netcoreapp3.1\exam002.runtimeconfig.json
+C:\Users\azerbash\source\repos\exam002\exam002\bin\Debug\netcoreapp3.1\exam002.runtimeconfig.dev.json
+C:\Users\azerbash\source\repos\exam002\exam002\bin\Debug\netcoreapp3.1\exam002.dll
+C:\Users\azerbash\source\repos\exam002\exam002\bin\Debug\netcoreapp3.1\exam002.pdb
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.csprojAssemblyReference.cache
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.AssemblyInfoInputs.cache
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.AssemblyInfo.cs
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.csproj.CoreCompileInputs.cache
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.dll
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.pdb
+C:\Users\azerbash\source\repos\exam002\exam002\obj\Debug\netcoreapp3.1\exam002.genruntimeconfig.cache
