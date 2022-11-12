@@ -10,7 +10,7 @@ namespace exam002
             Console.BufferWidth = 80;
             while (true)
             {
-                
+                Console.Write("Enter integer number (exit=13): ");
                 int n = int.Parse(Console.ReadLine());
                 if (n == 13)
                 {
